@@ -12,8 +12,8 @@ dev_dependencies:
   freezed: ^1.1.0
   lints: ^1.0.0
 dependencies:
+  dio: ^4.0.4
   freezed_annotation: ^1.1.0
   meta: ^1.7.0
-
 
 # dart run build_runner build --delete-conflicting-outputs
