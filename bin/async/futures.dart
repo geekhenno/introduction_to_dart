@@ -10,7 +10,7 @@ Future<void> main() async {
     print('sorry there is an error $e');
   }
 
-  // or we can use the other way but not recommended
+  // or we can use the other approach but sometimes not recommended
   // Dio()
   //     .get(apiUrl)
   //     .then((response) => print(response.data))
